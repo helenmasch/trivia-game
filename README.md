@@ -18,7 +18,7 @@ Which cast of housewives begun the "Real Housewives" franchise?
 - Real Housewives of Orange County 
 - Real Housewives of Beverly Hills
 
-Which housewife is the owner of "Sur Lounge"?
+Which housewife is the owner of "Sur Lounge in LA"?
 - Nene Leakes
 - Tamra Judge
 - Bethenny Frankel
