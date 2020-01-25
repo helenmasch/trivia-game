@@ -3,3 +3,15 @@ body {
     background-color: lightblue;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+#masterhead {
+    font-size: 50px;
+}
+
+#start {
+    background-color: lightpink;
+    color: darkslategray;
+    font-size: 40px;
+    border: dotted;
+}
+
