@@ -5,7 +5,7 @@ $(document).ready(function () {
     var index=0;
 
     var questions = [{
-        question: "Who is the host of Watch What Happens Live", 
+        question: "Who is the host of Watch What Happens Live?", 
         choices: ["Andy Cohen", "Anderson Cooper", "Ryan Seacrest", "Christ Harrison"],
         answer: "Andy Cohen"
     }, 
@@ -13,7 +13,34 @@ $(document).ready(function () {
         question: "Which cast of housewives begun the Real Housewives franchise?",
         choices: ["Real Housewives of New York", "Real Housewives of Atlanta", "Real Housewives of Orange County", "Real Housewives of Beverly Hills"],
         answer: "Real Housewives of Orange County"
-    }]
+    },
+    {
+        question: "Which housewife is the owner of Sur Lounge in LA?",
+        choices: ["Nene Leakes", "Tamra Judge", "Bethenny Frankel", "Lisa Vanderpump"],
+        answer: "Lisa Vanderpump"
+
+    },
+    {   
+        question: "Who is the Stud of the Sea from Below Deck?",
+        choices: ["Captain Sandy", "Captain Ashton", "Captain Lee", "Captain Colin"],
+        answer: "Captain Lee"
+    },
+    {
+        question: "What designer dressed Luann de Lesseps from Real Housewives of New York for her cabaret show?",
+        choices: ["Versace", "Valentino", "Balenciaga", "Jovani"],
+        answer: "Jovani"
+    },
+    {
+        question: "Where did the cast of Real Housewives of Dallas travel to in southeast Asia in Season 4?",
+        choices: ["Malaysia", "Thailand", "Cambodia", "Vietnam"],
+        answer: "Thailand"
+    },
+    {
+        question: "Who is the OG of the OC from Real Housewives of Orange County",
+        choices: ["Shannon Beador", "Tamra Judge", "Vicki Gunvalson", "Gretchen Rossi"],
+        answer: "Vicki Gunvalson"
+    }
+];
     
     
 
@@ -70,11 +97,6 @@ $(document).ready(function () {
         $("#scoreboard").hide()
     }) 
 
-    // Creates the variables
-    // var start = document.getElementById("start").text = "s";
-
-    // // prevents the clock from slowing down?
-    //  var countdownTimer = Math.floor((distance % (1000 * 60)) / 1000);
 
     // // displays multiple choice options as variables
     
